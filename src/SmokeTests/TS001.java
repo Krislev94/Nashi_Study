@@ -9,9 +9,4 @@ public class TS001 {
         System.out.println("Passed");
     }
 
-
-
-
-
-
 }
